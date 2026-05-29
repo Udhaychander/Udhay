@@ -1,18 +1,16 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Udhay Chander Bharatha
 
 > Full Stack Developer · Building scalable web applications from concept to deployment
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
-![Experience](https://img.shields.io/badge/5%2B%20Years%20Experience-blue?style=flat-square)
+![Experience](https://img.shields.io/badge/3%2B%20Years%20Experience-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in%20%5BYour%20City%5D-lightgrey?style=flat-square)
 
 ---
 
 ## About me
 
-I'm a Full Stack Developer passionate about building end-to-end solutions that are fast, accessible, and maintainable. I thrive at the intersection of product thinking and engineering craft — whether that's designing a clean REST API, optimizing a React frontend, or deploying containerized services on the cloud.
-
-I believe great software is readable, testable, and built to evolve. Currently focused on [your current interest — e.g. distributed systems / AI integrations].
+I'm a 
 
 ---
 
