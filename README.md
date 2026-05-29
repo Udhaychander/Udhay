@@ -36,6 +36,7 @@ Git Jest Agile CI/CD JUnit OAuth2 JWT SQS AWS Lambda Step Functions
 ---
 
 🚀 Featured Projects
+
 🤖 AI-Powered Meeting Summarizer
 A full-stack app that transcribes and summarizes video calls using the OpenAI API, reducing manual note-taking time by 70%. Features secure OAuth authentication and MongoDB for user and meeting management.
 
