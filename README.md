@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a 
+Full-stack software engineer with 3+ years of experience building scalable web applications and cloud-native systems. I specialize in Node.js, TypeScript, and React, with a strong focus on backend architecture from designing microservices and REST APIs to deploying containerized workloads on AWS. I hold an MS in Computer Science from Illinois Institute of Technology and enjoy solving complex engineering problems that sit at the intersection of performance, reliability, and clean design.
 
 ---
 
@@ -23,49 +23,37 @@ I'm a
 
 ## 🛠 Tech stack
 
-**Frontend**
-`React` `TypeScript` `Next.js` `Tailwind CSS`
+Frontend
+React TypeScript Next.js Tailwind CSS Angular Redux
+Backend
+Node.js Python PostgreSQL REST / GraphQL Express Java Spring Boot Django Flask .NET C# MongoDB Redis MySQL Oracle Snowflake MS SQL Server
+DevOps & Cloud
+Docker AWS GitHub Actions Terraform Kubernetes GCP Azure Jenkins CI/CD
+Tools & Practices
+Git Jest Agile CI/CD JUnit OAuth2 JWT SQS AWS Lambda Step Functions
 
-**Backend**
-`Node.js` `Python` `PostgreSQL` `REST / GraphQL`
-
-**DevOps & Cloud**
-`Docker` `AWS` `GitHub Actions` `Terraform`
-
-**Tools & Practices**
-`Git` `Jest` `Agile` `CI/CD`
 
 ---
 
-## 🚀 Featured projects
+🚀 Featured Projects
+🤖 AI-Powered Meeting Summarizer
+A full-stack app that transcribes and summarizes video calls using the OpenAI API, reducing manual note-taking time by 70%. Features secure OAuth authentication and MongoDB for user and meeting management.
 
-### 📦 [Project Alpha](https://github.com/yourname/project-alpha)
-A full-stack SaaS dashboard for real-time analytics, built with React, Node.js, and PostgreSQL. Features role-based auth, live charts, and automated reporting.
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square) ⭐ 48
+📈 Real-Time Stock Trading Dashboard
+A real-time trading dashboard with WebSockets cutting latency by 60% and Redis caching improving API performance by 35%. Deployed on AWS EC2 with CI/CD pipelines maintaining 99.9% uptime.
 
-### 🔗 [Project Beta](https://github.com/yourname/project-beta)
-A REST API microservice architecture with Docker Compose, JWT auth, and Redis caching. Includes full test coverage and CI/CD pipeline.
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) ⭐ 31
+☁️ Serverless Video Processing Pipeline
+A serverless media pipeline that triggers automatic video transcoding on S3 uploads using Lambda and Step Functions for parallel processing, with SQS-based decoupling ensuring 99.9% reliable processing.
 
-### 🌐 [Project Gamma](https://github.com/yourname/project-gamma)
-Open source CLI tool for scaffolding Next.js projects with opinionated defaults — ESLint, Prettier, testing, and deployment config included.
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logoColor=black) ⭐ 82
 
----
+🤝 Open Source
+I actively contribute to the open source community through bug fixes, documentation improvements, and sharing tools built along the way. I believe in giving back to the technologies that power modern software development.
 
-## 🤝 Open source
+📬 Get in Touch
 
-I actively contribute to the open source community. Recent contributions include bug fixes to [Library Name], documentation improvements for [Project], and maintaining [your own OSS project]. I believe in giving back to the tools that power our work.
+🌐 udhaychander.com
+💼 linkedin.com/in/udhay-chander-bharatha
+📧 bharathaudhay@gmail.com
 
----
-
-## 📬 Get in touch
-
-- 🌐 [yoursite.com](https://yoursite.com)
-- 💼 [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📧 you@email.com
-- 🐦 [@yourhandle](https://twitter.com/yourhandle)
-
----
 
 ⚡ This profile is updated regularly. Last refreshed: May 2026.
