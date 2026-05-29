@@ -51,13 +51,10 @@ I actively contribute to the open source community through bug fixes, documentat
 
 📬 Get in Touch
 
-🌐 [udhaychander.com](https://udhaychander.com)
-💼 [linkedin.com/in/udhay-chander-bharatha](https://www.linkedin.com/in/udhay-chander-bharatha)
-📧 [bharathaudhay@gmail.com](mailto:bharathaudhay@gmail.com)
 
 <p>
-  🌐 <a href="https://udhaychander.com">udhaychander.com</a> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/udhay-chander-bharatha">linkedin.com/in/udhay-chander-bharatha</a> &nbsp;•&nbsp;
+  🌐 <a href="https://udhaychander.com">udhaychander.com</a> &nbsp;
+  💼 <a href="https://www.linkedin.com/in/udhay-chander-bharatha">linkedin.com/in/udhay-chander-bharatha</a> &nbsp;
   📧 <a href="mailto:bharathaudhay@gmail.com">bharathaudhay@gmail.com</a>
 </p>
 
