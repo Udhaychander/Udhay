@@ -4,7 +4,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
 ![Experience](https://img.shields.io/badge/3%2B%20Years%20Experience-blue?style=flat-square)
-![Location](https://img.shields.io/badge/Based%20in%20%5BYour%20City%5D-lightgrey?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in%20Seattle-lightgrey?style=flat-square)
 
 ---
 
