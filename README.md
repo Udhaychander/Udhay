@@ -50,8 +50,10 @@ A serverless media pipeline that triggers automatic video transcoding on S3 uplo
 🤝 Open Source
 I actively contribute to the open source community through bug fixes, documentation improvements, and sharing tools built along the way. I believe in giving back to the technologies that power modern software development.
 
-📬 Get in Touch
+---
 
+
+📬 Get in Touch
 
 <p>
   🌐 <a href="https://udhaychander.com">udhaychander.com</a> &nbsp;
