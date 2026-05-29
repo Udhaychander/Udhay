@@ -55,5 +55,11 @@ I actively contribute to the open source community through bug fixes, documentat
 💼 [linkedin.com/in/udhay-chander-bharatha](https://www.linkedin.com/in/udhay-chander-bharatha)
 📧 [bharathaudhay@gmail.com](mailto:bharathaudhay@gmail.com)
 
+<p>
+  🌐 <a href="https://udhaychander.com">udhaychander.com</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/udhay-chander-bharatha">linkedin.com/in/udhay-chander-bharatha</a> &nbsp;•&nbsp;
+  📧 <a href="mailto:bharathaudhay@gmail.com">bharathaudhay@gmail.com</a>
+</p>
+
 
 ⚡ This profile is updated regularly. Last refreshed: May 2026.
