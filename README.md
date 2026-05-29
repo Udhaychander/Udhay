@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Udhay Chander Bharatha
+Udhay Chander Bharatha
 
 > Full Stack Developer · Building scalable web applications from concept to deployment
 
